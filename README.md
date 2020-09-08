@@ -1,4 +1,6 @@
 <img src="https://softwareas.com/assets/images/pages/mmtalk2.jpg" alt="About" />
+
+Greetings 👋
  
 * Full-stack product maker. Curious about programming, tech, startups, and future trends
 * Ruby, JavaScript, and Docker/AWS, mainly
