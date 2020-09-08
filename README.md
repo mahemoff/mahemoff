@@ -1,4 +1,4 @@
- <div class="post-thumbnail"><img src="/assets/images/pages/mmtalk2.jpg" alt="About" /></div>
+<img src="https://softwareas.com/assets/images/pages/mmtalk2.jpg" alt="About" />
  
 * Full-stack product maker. Curious about programming, tech, startups, and future trends
 * Ruby, JavaScript, and Docker/AWS, mainly
